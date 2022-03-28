@@ -6,7 +6,7 @@ Zip each folder in the specified directory.
 ## Screen image
 ![2022-03-28 15-59-19](https://user-images.githubusercontent.com/10069642/160343280-cb6fe07f-626c-4410-a4d8-623bec03563e.png)
 
-* The color scheme changes randomly each time it is activated.
+\* The color scheme changes randomly each time it is activated.
 
 ## License
 MIT
